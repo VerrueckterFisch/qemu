@@ -1,0 +1,9 @@
+# Omit the build artifacts
+build/**
+
+*.d
+*.m
+*.o
+*-timestamp
+*trace.c
+*trace.h
